@@ -1,11 +1,9 @@
-# Site pour les terminales NSI :computer:
+# Site pour les terminales NSI
 
 ## Divers
 
 + [Processus de contrôle continu](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Divers/Controle_Continu.pdf)
-	
 + [Synthèse du programme de terminale NSI](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Divers/Synth%C3%A8se_programme_Terminale_NSI.pdf)
-
 + [Modalités au baccalauréat de la spécialité NSI](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Divers/Modalit%C3%A9s_Epreuves_Terminales.pdf)
 
 ## Sequence 1 : Rappels de première
@@ -32,8 +30,6 @@
 ## Sequence 4 : Programmation orientée objet
 
 + :books: [Le cours](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_4_POO/Cours.pdf)
-
 + :world_map: La carte mentale
-
 + :pencil2: [Fiche d'exercices n°1 (Capytale)](https://capytale2.ac-paris.fr/web/c/a5db-4143538)
 
