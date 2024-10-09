@@ -34,4 +34,5 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 + :books: [Le cours](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_4_POO/Cours.pdf) [[Complément]](https://capytale2.ac-paris.fr/web/c/885b-4244176)
 + :world_map: La carte mentale
 + :pencil2: [Fiche d'exercices n°1 (Capytale)](https://capytale2.ac-paris.fr/web/c/a5db-4143538)
++ :pencil2: [Fiche d'exercices n°2 (Capytale)](https://capytale2.ac-paris.fr/web/c/cb5a-4245287)
 
