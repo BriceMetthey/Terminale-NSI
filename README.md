@@ -1,5 +1,7 @@
 # Site pour les terminales NSI
 
+Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://bricemetthey.github.io/Terminale-NSI)
+
 ## Divers
 
 + [Processus de contrôle continu](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Divers/Controle_Continu.pdf)
