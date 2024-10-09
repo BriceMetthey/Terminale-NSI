@@ -1,4 +1,4 @@
-# Site pour les terminales NSI
+# Site pour les terminales NSI :computer:
 
 ## Divers
 
@@ -10,7 +10,8 @@
 
 ## Sequence 1 : Rappels de première
 
-+ :pencil2: Exercices
++ :pencil2: [Exercices][Correction](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_1_Rappels/Exercices.pdf)(https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_1_Rappels/Exercices_Corrig%C3%A9s.pdf)
++ 
 + :pencil2: Exercices bonus
 
 ## Sequence 2 : Récursivité
