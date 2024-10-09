@@ -21,7 +21,7 @@
 + :books: [Le cours complété](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_2_Recursivite/Cours_complet.pdf)
 + :world_map: [La carte mentale](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_2_Recursivite/Carte-Mentale_R%C3%A9cursivit%C3%A9.svg)
 + :pencil2: [Exercices](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_2_Recursivite/Exercices.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_2_Recursivite/Exercices_corrig%C3%A9s.pdf)
-+ :hourglass_flowing_sand: [Evaluation formative corrigée](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_2_Recursivite/Evaluation_formative_corrig%C3%A9e.pdf)
++ :hourglass_flowing_sand: [Evaluation formative](https://capytale2.ac-paris.fr/web/c/1386-3917946) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_2_Recursivite/Evaluation_formative_corrig%C3%A9e.pdf)
 + :hourglass_flowing_sand: [Evaluation](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_2_Recursivite/DS%20R%C3%A9cursivit%C3%A9.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_2_Recursivite/DS%20R%C3%A9cursivit%C3%A9_corrections.pdf)
 
 
@@ -31,10 +31,9 @@
 
 ## Sequence 4 : Programmation orientée objet
 
-+ :books: Le cours
++ :books: [Le cours](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_4_POO/Cours.pdf)
 
 + :world_map: La carte mentale
 
-+ :pencil2: Suite d'exercices n°1 (Capytale) 
++ :pencil2: [Fiche d'exercices n°1 (Capytale)](https://capytale2.ac-paris.fr/web/c/a5db-4143538)
 
-+ :heavy_check_mark: Correction des exercices
