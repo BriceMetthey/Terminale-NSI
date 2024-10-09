@@ -11,8 +11,9 @@
 ## Sequence 1 : Rappels de première
 
 + :pencil2: [Exercices](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_1_Rappels/Exercices.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_1_Rappels/Exercices_Corrig%C3%A9s.pdf)
-+ 
-+ :pencil2: Exercices bonus
++ :pencil2: [Exercices bonus](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_1_Rappels/Exercices_bonus.pdf)
++ :books: [Rappels sur la Recherche Dichotomique](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_1_Rappels/Rappels_Recherche_Dichotomique.pdf)
++ :books: [Rappels sur les Tris (insertion,sélection)](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_1_Rappels/Rappels_Tris.pdf)
 
 ## Sequence 2 : Récursivité
 
