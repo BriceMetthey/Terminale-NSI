@@ -22,7 +22,7 @@
 + :heavy_check_mark: Correction des exercices
 + :pencil2: Evaluation formative corrigée
 + :pencil2: Evaluation
-+ :pencil2: Evaluation corrigée
++ :heavy_check_mark: Evaluation corrigée
 
 ## Sequence 3 : Modularité
 
