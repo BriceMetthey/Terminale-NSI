@@ -21,8 +21,8 @@
 + :books: [Le cours complété](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_2_Recursivite/Cours_complet.pdf)
 + :world_map: [La carte mentale](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_2_Recursivite/Carte-Mentale_R%C3%A9cursivit%C3%A9.svg)
 + :pencil2: [Exercices](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_2_Recursivite/Exercices.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_2_Recursivite/Exercices_corrig%C3%A9s.pdf)
-+ :pencil2: [Evaluation formative corrigée](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_2_Recursivite/Evaluation_formative_corrig%C3%A9e.pdf)
-+ :pencil2: [Evaluation](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_2_Recursivite/DS%20R%C3%A9cursivit%C3%A9.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_2_Recursivite/DS%20R%C3%A9cursivit%C3%A9_corrections.pdf)
++ :hourglass_flowing_sand: [Evaluation formative corrigée](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_2_Recursivite/Evaluation_formative_corrig%C3%A9e.pdf)
++ :hourglass_flowing_sand: [Evaluation](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_2_Recursivite/DS%20R%C3%A9cursivit%C3%A9.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_2_Recursivite/DS%20R%C3%A9cursivit%C3%A9_corrections.pdf)
 
 
 ## Sequence 3 : Modularité
