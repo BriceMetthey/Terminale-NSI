@@ -10,7 +10,7 @@
 
 ## Sequence 1 : Rappels de première
 
-+ :pencil2: [Exercices](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_1_Rappels/Exercices.pdf)[(Correction)](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_1_Rappels/Exercices_Corrig%C3%A9s.pdf)
++ :pencil2: [Exercices](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_1_Rappels/Exercices.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_1_Rappels/Exercices_Corrig%C3%A9s.pdf)
 + 
 + :pencil2: Exercices bonus
 
