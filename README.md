@@ -27,6 +27,8 @@
 
 ## Sequence 3 : Modularité
 
++ :construction: En construction ...
+
 ## Sequence 4 : Programmation orientée objet
 
 + :books: Le cours
