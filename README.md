@@ -35,7 +35,7 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 + 📚 [La notion d'encapsulation](https://capytale2.ac-paris.fr/web/c/96ed-4264467)
 + :books: [La notion d'héritage](https://capytale2.ac-paris.fr/web/c/989d-4264876)
 + :world_map: La carte mentale
-+ :pencil2: [Fiche d'exercices n°1 (Capytale)](https://capytale2.ac-paris.fr/web/c/a5db-4143538)
++ :pencil2: [Fiche d'exercices n°1 (Capytale)](https://capytale2.ac-paris.fr/web/c/a5db-4143538) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_4_POO/Exercices_corrig%C3%A9s.pdf)
 + :pencil2: [Fiche d'exercices n°2 (Capytale)](https://capytale2.ac-paris.fr/web/c/cb5a-4245287)
 + :pencil2: [Fiche d'exercices n°3 (Capytale)](https://capytale2.ac-paris.fr/web/c/070f-4264682)
 
