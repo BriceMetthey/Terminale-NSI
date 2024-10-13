@@ -38,4 +38,6 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 + :pencil2: [Fiche d'exercices n°1 (Capytale)](https://capytale2.ac-paris.fr/web/c/a5db-4143538) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_4_POO/Exercices_corrig%C3%A9s.pdf)
 + :pencil2: [Fiche d'exercices n°2 (Capytale)](https://capytale2.ac-paris.fr/web/c/cb5a-4245287)
 + :pencil2: [Fiche d'exercices n°3 (Capytale)](https://capytale2.ac-paris.fr/web/c/070f-4264682)
-
++ :pencil2: [Fiche d'exercices n°4 (Capytale)](https://capytale2.ac-paris.fr/web/c/b8b8-4288764)
++ :pencil2: [Fiche d'exercices n°5 (Capytale)](https://capytale2.ac-paris.fr/web/c/8103-4289329)
++ :pencil2: [Fiche d'exercices n°6 (Capytale)](https://capytale2.ac-paris.fr/web/c/fc90-4289435)
