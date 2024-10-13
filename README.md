@@ -41,3 +41,4 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 + :pencil2: [Fiche d'exercices n°4 (Capytale)](https://capytale2.ac-paris.fr/web/c/b8b8-4288764)
 + :pencil2: [Fiche d'exercices n°5 (Capytale)](https://capytale2.ac-paris.fr/web/c/8103-4289329)
 + :pencil2: [Fiche d'exercices n°6 (Capytale)](https://capytale2.ac-paris.fr/web/c/fc90-4289435)
++ :pencil2: [Fiche d'exercices n°7 (Capytale)](https://capytale2.ac-paris.fr/web/c/3bc0-4289695)
