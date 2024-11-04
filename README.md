@@ -46,6 +46,6 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 
 ## Sequence 5 : Listes, piles, files : structures linéaires. Interfaces et implémentations
 
-+ :books: [Cours #1](https://capytale2.ac-paris.fr/web/c/29e4-4366301)
++ :books: [Cours #1](https://capytale2.ac-paris.fr/web/c/0f7a-4430887)
 + 📓 [Fiche synthèse Tableaux](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/Fiche-Synth%C3%A8se-Tableaux.pdf)
 
