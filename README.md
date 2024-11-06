@@ -30,19 +30,12 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 + :books: [Le cours](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Cours.pdf) [[Cours complet]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Cours_complet.pdf)
 + :world_map: [La carte mentale](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Carte%20mentale%20-%20Modulariser%20et%20tester.svg)
 + :pencil2: [Exercices préconditions](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercice_preconditions.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercice_preconditions_corrig%C3%A9.pdf)
++ :pencil2: [Exercices tests boite blanche](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercice_tests_boite_blanche.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercice_tests_boite_blanche_corrig%C3%A9.pdf)
++ :pencil2: [Exercices tests boite noire](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercice_tests_boite_noire.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercice_tests_boite_noire_corrig%C3%A9.pdf)
++ :pencil2: [Exercices type hinting](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercice_type_hinting.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercice_type_hinting_corrig%C3%A9.pdf)
++ :pencil2: [Exercices](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercices.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercices_corrig%C3%A9s.pdf)
 
 
-https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercice_tests_boite_blanche.pdf
-https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercice_tests_boite_blanche_corrig%C3%A9.pdf
-
-https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercice_tests_boite_noire.pdf
-https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercice_tests_boite_noire_corrig%C3%A9.pdf
-
-https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercice_type_hinting.pdf
-https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercice_type_hinting_corrig%C3%A9.pdf
-
-https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercices.pdf
-https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercices_corrig%C3%A9s.pdf
 
 https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercices_docstrings.pdf
 https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercices_docstrings_corrig%C3%A9s.pdf
