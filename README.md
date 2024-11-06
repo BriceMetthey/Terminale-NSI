@@ -34,19 +34,10 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 + :pencil2: [Exercices tests boite noire](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercice_tests_boite_noire.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercice_tests_boite_noire_corrig%C3%A9.pdf)
 + :pencil2: [Exercices type hinting](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercice_type_hinting.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercice_type_hinting_corrig%C3%A9.pdf)
 + :pencil2: [Exercices](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercices.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercices_corrig%C3%A9s.pdf)
-
-
-
-https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercices_docstrings.pdf
-https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercices_docstrings_corrig%C3%A9s.pdf
-
-https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercices_effets_de_bords.pdf
-https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercices_effets_de_bords_corrig%C3%A9.pdf
-
-https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercices_modularite.pdf
-https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercices_modularite_corrig%C3%A9s.pdf
-
-https://github.com/BriceMetthey/Terminale-NSI/tree/main/S%C3%A9quence_3_Modularite/Exemples%20Pytest
++ :pencil2: [Exercices docstring](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercices_docstrings.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercices_docstrings_corrig%C3%A9s.pdf)
++ :pencil2: [Exercices effets_de_bords](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercices_effets_de_bords.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercices_effets_de_bords_corrig%C3%A9.pdf)
++ :pencil2: [Exercices modularité](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercices_modularite.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercices_modularite_corrig%C3%A9s.pdf)
++ :rocket: [Un exemple d'usage du Framework Pytest](https://github.com/BriceMetthey/Terminale-NSI/tree/main/S%C3%A9quence_3_Modularite/Exemples%20Pytest)
 
 ## Sequence 4 : Programmation orientée objet
 
