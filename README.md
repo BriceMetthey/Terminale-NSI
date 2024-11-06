@@ -32,8 +32,8 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 ## Sequence 4 : Programmation orientée objet
 
 + :books: [Le cours](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_4_POO/Cours.pdf) [[Complément]](https://capytale2.ac-paris.fr/web/c/885b-4244176)
-+ 📚 [La notion d'encapsulation](https://capytale2.ac-paris.fr/web/c/96ed-4264467)
-+ :books: [La notion d'héritage](https://capytale2.ac-paris.fr/web/c/989d-4264876)
++ 📚 [La notion d'encapsulation (Capytale)](https://capytale2.ac-paris.fr/web/c/96ed-4264467)
++ :books: [La notion d'héritage (Capytale)](https://capytale2.ac-paris.fr/web/c/989d-4264876)
 + :world_map: La carte mentale
 + :pencil2: [Fiche d'exercices n°1 (Capytale)](https://capytale2.ac-paris.fr/web/c/a5db-4143538) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_4_POO/Exercices_corrig%C3%A9s.pdf)
 + :pencil2: [Fiche d'exercices n°2 (Capytale)](https://capytale2.ac-paris.fr/web/c/cb5a-4245287) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_4_POO/Fiche_Exercices_2_Correction.pdf)
