@@ -47,8 +47,8 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 ## Sequence 5 : Listes, piles, files : structures linéaires. Interfaces et implémentations
 
 + :books: :pencil2: [Cours et exercices #1](https://capytale2.ac-paris.fr/web/c/0f7a-4430887)
-+ :page_facing_up: [Fiche synthèse Complexité des algorithmes]() :warning: Nouveau
++ :page_facing_up: [Fiche synthèse Complexité des algorithmes](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/Fiche_synth%C3%A8se-Analyse-Algorithmique.pdf) :warning: Nouveau
 + :page_facing_up: [Fiche synthèse Tableaux](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/Fiche-Synth%C3%A8se-Tableaux.pdf) :warning: Nouveau
-+ :page_facing_up: [Fiche Synthèse Listes chaînées]() :warning: Nouveau
++ :page_facing_up: [Fiche Synthèse Listes chaînées](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/Fiche-Synth%C3%A8se-Liste-Cha%C3%AEn%C3%A9e.pdf) :warning: Nouveau
 
 
