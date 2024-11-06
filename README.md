@@ -29,7 +29,7 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 
 + :books: [Le cours](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Cours.pdf) [[Cours complet]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Cours_complet.pdf)
 + :world_map: [La carte mentale](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Carte%20mentale%20-%20Modulariser%20et%20tester.svg)
-+ :pencil2: [Exercices préconditions](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercice_preconditions.pdf) [[Correction]]([https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_4_POO/Exercices_corrig%C3%A9s.pdf](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercice_preconditions_corrig%C3%A9.pdf)
++ :pencil2: [Exercices préconditions](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercice_preconditions.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercice_preconditions_corrig%C3%A9.pdf)
 
 
 https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercice_tests_boite_blanche.pdf
