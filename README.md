@@ -38,15 +38,15 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 + :pencil2: [Fiche d'exercices n°1 (Capytale)](https://capytale2.ac-paris.fr/web/c/a5db-4143538) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_4_POO/Exercices_corrig%C3%A9s.pdf)
 + :pencil2: [Fiche d'exercices n°2 (Capytale)](https://capytale2.ac-paris.fr/web/c/cb5a-4245287) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_4_POO/Fiche_Exercices_2_Correction.pdf)
 + :pencil2: [Fiche d'exercices n°3 (Capytale)](https://capytale2.ac-paris.fr/web/c/070f-4264682) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_4_POO/Fiche_Exercices_3_Correction.pdf)
-+ :pencil2: [Fiche d'exercices n°4 (Capytale)](https://capytale2.ac-paris.fr/web/c/b8b8-4288764)
-+ :pencil2: [Fiche d'exercices n°5 (Capytale)](https://capytale2.ac-paris.fr/web/c/8103-4289329)
-+ :pencil2: [Fiche d'exercices n°6 (Capytale)](https://capytale2.ac-paris.fr/web/c/fc90-4289435)
-+ :pencil2: [Fiche d'exercices n°7 (Capytale)](https://capytale2.ac-paris.fr/web/c/3bc0-4289695)
-+ :pencil2: [Fiche d'exercices n°8 (Capytale)](https://capytale2.ac-paris.fr/web/c/a350-4345337)
++ :pencil2: [Fiche d'exercices n°4 (Capytale)](https://capytale2.ac-paris.fr/web/c/b8b8-4288764) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_4_POO/Fiche_Exercices_4_Correction.pdf)
++ :pencil2: [Fiche d'exercices n°5 (Capytale)](https://capytale2.ac-paris.fr/web/c/8103-4289329) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_4_POO/Fiche_Exercices_5_Correction.pdf)
++ :pencil2: [Fiche d'exercices n°6 (Capytale)](https://capytale2.ac-paris.fr/web/c/fc90-4289435) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_4_POO/Fiche_Exercices_6_Correction.pdf)
++ :pencil2: [Fiche d'exercices n°7 (Capytale)](https://capytale2.ac-paris.fr/web/c/3bc0-4289695) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_4_POO/Fiche_Exercices_7_Correction.pdf)
++ :pencil2: [Fiche d'exercices n°8 (Capytale)](https://capytale2.ac-paris.fr/web/c/a350-4345337) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_4_POO/Fiche_Exercices_8_Correction.pdf)
 
-## Sequence 5 : Listes, piles, files : structures linéaires. Interfaces et implémentations
+## Sequence 5 : Listes, piles, files
 
-+ :books::pencil2:[Les listes chaînées (cours & exercices)](https://capytale2.ac-paris.fr/web/c/0f7a-4430887)
++ :books::pencil2:[Les listes chaînées (Capytale)](https://capytale2.ac-paris.fr/web/c/0f7a-4430887)
 + :page_facing_up: [Fiche synthèse Complexité des algorithmes](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/Fiche_synth%C3%A8se-Analyse-Algorithmique.pdf) :warning: Nouveau
 + :page_facing_up: [Fiche synthèse Tableaux](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/Fiche-Synth%C3%A8se-Tableaux.pdf) :warning: Nouveau
 + :page_facing_up: [Fiche Synthèse Listes chaînées](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/Fiche-Synth%C3%A8se-Liste-Cha%C3%AEn%C3%A9e.pdf) :warning: Nouveau
