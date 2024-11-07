@@ -59,6 +59,7 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 + :books::pencil2:[Les listes chaînées (Capytale)](https://capytale2.ac-paris.fr/web/c/0f7a-4430887)
   - :memo: [Correction liste chaînée - Tuple](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/liste_chainee_tuple.py)
   - :memo: [Correction liste chaînée - Tableau](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/liste_chainee_tableau.py)
+  - :memo: Correction liste chaînée - POO [Cellule](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/Cellule.py)
 + :page_facing_up: [Fiche synthèse Complexité des algorithmes](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/Fiche_synth%C3%A8se-Analyse-Algorithmique.pdf) :warning: Nouveau
 + :page_facing_up: [Fiche synthèse Tableaux](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/Fiche-Synth%C3%A8se-Tableaux.pdf) :warning: Nouveau
 + :page_facing_up: [Fiche Synthèse Listes chaînées](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/Fiche-Synth%C3%A8se-Liste-Cha%C3%AEn%C3%A9e.pdf) :warning: Nouveau
