@@ -69,4 +69,5 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
   - :memo: [pile_liste_chainee.py](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/pile_liste_chainee.py)
   - :memo: [pile_tableau.py](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/pile_tableau.py)
 + :books:✏️[Les files (Capytale)](https://capytale2.ac-paris.fr/web/c/2dae-4548437)
+  - :memo: [File avec liste chaînée](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/file_POO_liste_chain%C3%A9e.py)
 
