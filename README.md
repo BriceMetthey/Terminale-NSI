@@ -76,5 +76,6 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
   - :memo: [File avec 2 piles](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/file_avec_2_piles.py)
   - :memo: [File avec un tableau](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/file_tableau_simple.py)
   - :memo: [Cantine](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/cantine.py)
-+ :page_facing_up: [Expérience](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/Exp%C3%A9rience.pdf)
++ :page_facing_up: [Autres implémentations]()
++ :page_facing_up: [Bonus Expérience](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/Exp%C3%A9rience.pdf)
 
