@@ -79,3 +79,8 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 + :page_facing_up: [Autres implémentations](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/Autres%20impl%C3%A9mentations-partiel.pdf)
 + :page_facing_up: [Bonus Expérience](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/Exp%C3%A9rience.pdf)
 
+
+## Sequence 6 : Méthode « diviser pour régner »
+
++ :books::pencil2:[Recherche dichotomique](https://capytale2.ac-paris.fr/web/c/2505-4690800)
++ :books::pencil2:[Diviser pour régner](https://capytale2.ac-paris.fr/web/c/6a7a-4691376)
