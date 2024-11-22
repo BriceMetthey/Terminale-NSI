@@ -8,14 +8,14 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 + [Synthèse du programme de terminale NSI](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Divers/Synth%C3%A8se_programme_Terminale_NSI.pdf)
 + [Modalités au baccalauréat de la spécialité NSI](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Divers/Modalit%C3%A9s_Epreuves_Terminales.pdf)
 
-## Sequence 1 : Rappels de première
+## Séquence 1 : Rappels de première
 
 + :pencil2: [Exercices](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_1_Rappels/Exercices.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_1_Rappels/Exercices_Corrig%C3%A9s.pdf)
 + :pencil2: [Exercices bonus](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_1_Rappels/Exercices_bonus.pdf)
 + :books: [Rappels sur la Recherche Dichotomique](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_1_Rappels/Rappels_Recherche_Dichotomique.pdf)
 + :books: [Rappels sur les Tris (insertion,sélection)](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_1_Rappels/Rappels_Tris.pdf)
 
-## Sequence 2 : Récursivité
+## Séquence 2 : Récursivité
 
 + :books: [Le cours](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_2_Recursivite/Cours.pdf)
 + :books: [Le cours complété](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_2_Recursivite/Cours_complet.pdf)
@@ -25,7 +25,7 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 + :hourglass_flowing_sand: [Evaluation](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_2_Recursivite/DS%20R%C3%A9cursivit%C3%A9.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_2_Recursivite/DS%20R%C3%A9cursivit%C3%A9_corrections.pdf)
 
 
-## Sequence 3 : Modularité
+## Séquence 3 : Modularité
 
 + :books: [Le cours](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Cours.pdf) [[Cours complet]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Cours_complet.pdf)
 + :world_map: [La carte mentale](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Carte%20mentale%20-%20Modulariser%20et%20tester.svg)
@@ -39,7 +39,7 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 + :pencil2: [Exercices modularité](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercices_modularite.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_3_Modularite/Exercices_modularite_corrig%C3%A9s.pdf)
 + :rocket: [Un exemple d'usage du Framework Pytest](https://github.com/BriceMetthey/Terminale-NSI/tree/main/S%C3%A9quence_3_Modularite/Exemples%20Pytest)
 
-## Sequence 4 : Programmation orientée objet
+## Séquence 4 : Programmation orientée objet
 
 + :books: [Le cours](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_4_POO/Cours.pdf) [[Complément]](https://capytale2.ac-paris.fr/web/c/885b-4244176)
 + 📚 [La notion d'encapsulation (Capytale)](https://capytale2.ac-paris.fr/web/c/96ed-4264467)
@@ -54,7 +54,7 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 + :pencil2: [Fiche d'exercices n°7 (Capytale)](https://capytale2.ac-paris.fr/web/c/3bc0-4289695) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_4_POO/Fiche_Exercices_7_Correction.pdf)
 + :pencil2: [Fiche d'exercices n°8 (Capytale)](https://capytale2.ac-paris.fr/web/c/a350-4345337) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_4_POO/Fiche_Exercices_8_Correction.pdf)
 
-## Sequence 5 : Listes, piles, files
+## Séquence 5 : Listes, piles, files
 
 + :books::pencil2:[Les listes chaînées (Capytale)](https://capytale2.ac-paris.fr/web/c/0f7a-4430887)
   - :memo: [Correction liste chaînée - Tuple](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/liste_chainee_tuple.py)
@@ -81,7 +81,7 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 + :page_facing_up: [Bonus Expérience](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/Exp%C3%A9rience.pdf)
 
 
-## Sequence 6 : Méthode « diviser pour régner »
+## Séquence 6 : Méthode « diviser pour régner »
 
 + :books::pencil2:[Recherche dichotomique](https://capytale2.ac-paris.fr/web/c/2505-4690800)
 + :books::pencil2:[Diviser pour régner](https://capytale2.ac-paris.fr/web/c/6a7a-4691376)
