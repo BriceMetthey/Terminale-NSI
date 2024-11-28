@@ -92,3 +92,4 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 + ✏️ [Exemple de la somme des éléments d'un tableau](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/Somme%20des%20%C3%A9l%C3%A9ments%20d'un%20tableau.pdf)
 + ✏️ [Exemple de la recherche d'un élément majoritaire](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/Element%20majoritaire.pdf)
 + ✏️ [Exemple - Compter les occurences dans un tableau](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/Compter%20les%20occurrences.pdf)
++ ✏️ [Exemple du calcul de la puissance](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/Calcul%20de%20la%20puissance.pdf)
