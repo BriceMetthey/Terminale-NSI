@@ -87,7 +87,6 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
   + [Approche_naive](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/approche_naive.py)
   + [Recherche dichotomique](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/recherche_dichotomique.py)
   + [Recherche dichotomique recursive](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/recherche_dichotomique_recursive.py)
-
 + :books::pencil2:[Diviser pour régner](https://capytale2.ac-paris.fr/web/c/6a7a-4691376)
 + ✏️ [Exemple de la recherche du maximum](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/Recherche%20du%20maximum.pdf)
 + ✏️ [Exemple de la somme des éléments d'un tableau](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/Somme%20des%20%C3%A9l%C3%A9ments%20d'un%20tableau.pdf)
