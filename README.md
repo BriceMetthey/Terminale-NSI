@@ -96,3 +96,8 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 + :books: [Recherche par dichotomie : Synthèse et complexité](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/Synth%C3%A8se%20recherche%20par%20dichotomie.pdf)
 + :books: [Tri fusion : Synthèse et complexité](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/Synth%C3%A8se%20Tri%20fusion.pdf)
 
+
+## Séquence 7 : Base de données
+
++ ✏️ [Cahier des charges projet - Système de gestion d’un centre équestre](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_7_Base_de_donn%C3%A9es/Cahier%20des%20charges.pdf)
+  
