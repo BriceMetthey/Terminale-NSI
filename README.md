@@ -93,6 +93,6 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 + ✏️ [Exemple de la recherche d'un élément majoritaire](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/Element%20majoritaire.pdf)
 + ✏️ [Exemple - Compter les occurences dans un tableau](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/Compter%20les%20occurrences.pdf)
 + ✏️ [Exemple du calcul de la puissance](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/Calcul%20de%20la%20puissance.pdf)
-+ :books: [Recherhce par dichotomie : Synthèse et complexité](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/Synth%C3%A8se%20recherche%20par%20dichotomie.pdf)
++ :books: [Recherche par dichotomie : Synthèse et complexité](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/Synth%C3%A8se%20recherche%20par%20dichotomie.pdf)
 + :books: [Tri fusion : Synthèse et complexité](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/Synth%C3%A8se%20Tri%20fusion.pdf)
 
