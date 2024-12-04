@@ -107,17 +107,56 @@ Cas d'usage :
 
 1. Lancer l'invite de commande Windows
 
-2. Exécuter la commande `cd D:\Projets\ProjetCentreEquestre\bdd`
+2. Exécuter la commande `D:`
 
-3. Exécuter la commande `C:\Applis\Sqlite\sqlite3.exe`
+3. Exécuter la commande `cd D:\Projets\ProjetCentreEquestre\bdd`
 
-4. Utilisez la commande .open pour créer et ouvrir une nouvelle base de données :
+4. Exécuter la commande `C:\Applis\Sqlite\sqlite3.exe`
+
+5. Utilisez la commande .open pour créer et ouvrir une nouvelle base de données :
 
   - `.open centreEquestre.db`
 
-5. Fermer la base de données :
+6. Fermer la base de données :
 
   - `.exit`
+  
+7. Maintenant nous avons une base de données dans :
+
+  - `D:\Projets\ProjetCentreEquestre\bdd\centreEquestre.db`
+  
+  
+  
+  
+### Manipulation de la base de données
+
+#### A) En utilisant l'invite de commande
+
+1. Lancer l'invite de commande Windows
+
+2. Exécuter la commande `D:`
+
+3. Exécuter la commande `cd D:\Projets\ProjetCentreEquestre\bdd`
+
+4. Exécuter la commande `C:\Applis\Sqlite\sqlite3.exe`
+
+5. Utilisez la commande `.open centreEquestre.db` pour ouvrir la base de données
+
+6. Lancer les commandes SQL dont vous avez besoin ...
+
+7. Sinon vous pouvez créer un fichier SQL et le faire executer dans la base de données :
+
+  - Exemple --> Executer les commandes SQL du fichier schema.sql se trouvant dans `D:\Exercices-bdd` : `.read D:\Exercices-bdd\schema.sql`
+
+
+
+#### B) En utilisant le logiciel sqlitebrowser
+
+1. Aller dans `D:\Applis\SQLiteDatabaseBrowserPortable`
+2. Double cliquer sur :  `SQLiteDatabaseBrowserPortable.exe`
+3. Fichier -> Ouvrir une Base de Données...
+4. Choisir une base de données à ouvrir ( Ex: `D:\Projets\ProjetCentreEquestre\bdd`)
+
 
 
 
