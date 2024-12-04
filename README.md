@@ -10,8 +10,8 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 
 ## Evaluations  :warning: Nouveau !
 
-+ [Evaluation n°1](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Evaluations/DS_1.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Evaluations/DS_1_corrections.pdf)
-+ [Evaluation n°2](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Evaluations/DS_2.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Evaluations/DS_2_corrections.pdf)
++ :hourglass_flowing_sand:[Evaluation n°1](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Evaluations/DS_1.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Evaluations/DS_1_corrections.pdf)
++ :hourglass_flowing_sand:[Evaluation n°2](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Evaluations/DS_2.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Evaluations/DS_2_corrections.pdf)
 
 
 ## Séquence 1 : Rappels de première
@@ -28,7 +28,6 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 + :world_map: [La carte mentale](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_2_Recursivite/Carte-Mentale_R%C3%A9cursivit%C3%A9.svg)
 + :pencil2: [Exercices](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_2_Recursivite/Exercices.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_2_Recursivite/Exercices_corrig%C3%A9s.pdf)
 + :hourglass_flowing_sand: [Evaluation formative](https://capytale2.ac-paris.fr/web/c/1386-3917946) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_2_Recursivite/Evaluation_formative_corrig%C3%A9e.pdf)
-+ :hourglass_flowing_sand: [Evaluation](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_2_Recursivite/DS%20R%C3%A9cursivit%C3%A9.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_2_Recursivite/DS%20R%C3%A9cursivit%C3%A9_corrections.pdf)
 
 
 ## Séquence 3 : Modularité
