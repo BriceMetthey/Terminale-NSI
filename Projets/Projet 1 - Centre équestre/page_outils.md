@@ -58,7 +58,7 @@ Outils des bases de données : Prérequis, Installations, Exécutions
 4. Le fichier est téléchargé dans le répertoire `Téléchargements` de votre session utilisateur
   - Le nom du fichier est : `sqlite-tools-win-x64-3470100.zip`
 
-5. Déplacer le fichier sur votre clé USB dans `D:\Applis` - j'ai dit de le **déplacer** et non pas de le décompresser pour l'instant ... :smiling_imp:
+5. Déplacer le fichier sur votre clé USB dans `D:\Applis`
 
 6. Aller dans D:\Applis
   - Le fichier `sqlite-tools-win-x64-3470100.zip` est un fichier compressé
