@@ -89,10 +89,15 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
   + Correction [recherche_dichotomique_recursive.py](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/recherche_dichotomique_recursive.py)
 + :books::pencil2:[Diviser pour régner (Capytale)](https://capytale2.ac-paris.fr/web/c/6a7a-4691376)
 + ✏️ [Exemple de la recherche du maximum](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/Recherche%20du%20maximum.pdf)
+  + Correction [recherche_maximum.py](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/recherche_maximum.py)
 + ✏️ [Exemple de la somme des éléments d'un tableau](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/Somme%20des%20%C3%A9l%C3%A9ments%20d'un%20tableau.pdf)
+  + Correction [somme_tableau.py](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/somme_tableau.py)
 + ✏️ [Exemple de la recherche d'un élément majoritaire](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/Element%20majoritaire.pdf)
+  + Correction [element majoritaire.py](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/element%20majoritaire.py)
 + ✏️ [Exemple - Compter les occurences dans un tableau](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/Compter%20les%20occurrences.pdf)
+  + Correction [compter_occurences.py][https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/compter_occurences.py]
 + ✏️ [Exemple du calcul de la puissance](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/Calcul%20de%20la%20puissance.pdf)
+  + Correction [calcul_puissance.py](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/calcul_puissance.py)
 + :books: [Recherche par dichotomie : Synthèse et complexité](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/Synth%C3%A8se%20recherche%20par%20dichotomie.pdf)
 + :books: [Tri fusion : Synthèse et complexité](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/Synth%C3%A8se%20Tri%20fusion.pdf)
 
