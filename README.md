@@ -8,6 +8,12 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 + [Synthèse du programme de terminale NSI](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Divers/Synth%C3%A8se_programme_Terminale_NSI.pdf)
 + [Modalités au baccalauréat de la spécialité NSI](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Divers/Modalit%C3%A9s_Epreuves_Terminales.pdf)
 
+## Evaluations  :warning: Nouveau !
+
++ [Evaluation n°1](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Evaluations/DS_1.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Evaluations/DS_1_corrections.pdf)
++ [Evaluation n°2](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Evaluations/DS_2.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Evaluations/DS_2_corrections.pdf)
+
+
 ## Séquence 1 : Rappels de première
 
 + :pencil2: [Exercices](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_1_Rappels/Exercices.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_1_Rappels/Exercices_Corrig%C3%A9s.pdf)
@@ -109,7 +115,7 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 
 + :books: Modèle relationnel
 
-## Projet : Bases de données :rocket:
+## Projet : Bases de données 
 
 + :horse: [Cahier des charges](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_7_Base_de_donn%C3%A9es/Cahier%20des%20charges.pdf)
   
