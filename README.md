@@ -116,5 +116,5 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 
 ## Projet : Bases de données 
 
-+ :horse: [Cahier des charges](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_7_Base_de_donn%C3%A9es/Cahier%20des%20charges.pdf)
++ :horse: [Cahier des charges](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Projets/Projet%201%20-%20Centre%20%C3%A9questre/Cahier%20des%20charges.pdf)
   
