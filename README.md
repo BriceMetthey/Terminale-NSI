@@ -88,6 +88,7 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
   + Correction [recherche_dichotomique.py](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/recherche_dichotomique.py)
   + Correction [recherche_dichotomique_recursive.py](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/recherche_dichotomique_recursive.py)
 + :books::pencil2:[Diviser pour régner (Capytale)](https://capytale2.ac-paris.fr/web/c/6a7a-4691376)
+  + Correction [tri_fusion.py](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/tri_fusion.py) 
 + ✏️ [Exemple de la recherche du maximum](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/Recherche%20du%20maximum.pdf)
   + Correction [Réponses aux questions](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/Recherche%20du%20maximum%20-%20Correction.pdf)
   + Correction [recherche_maximum.py](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/recherche_maximum.py)
