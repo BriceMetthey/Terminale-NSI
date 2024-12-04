@@ -157,7 +157,7 @@ Cas d'usage :
 3. Fichier -> Ouvrir une Base de Données...
 4. Choisir une base de données à ouvrir ( Ex: `D:\Projets\ProjetCentreEquestre\bdd`)
 5. Accéder à l'onglet Exécuter le SQL
-6. Cliquer sur le bouton Executer
+6. Cliquer sur le bouton Exécuter
 ![image](https://github.com/user-attachments/assets/38402b9f-38df-469f-9ae8-192554b7a3c0)
 
 
