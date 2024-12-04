@@ -97,11 +97,11 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 + :books: [Tri fusion : Synthèse et complexité](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/Synth%C3%A8se%20Tri%20fusion.pdf)
 
 
-## Séquence 7 : Base de données
+## Séquence 7 : Bases de données
 
 + :books: Modèle relationnel
 
-## Projet
+## Projet : Bases de données
 
 + :rocket: :horse: [Cahier des charges du projet](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_7_Base_de_donn%C3%A9es/Cahier%20des%20charges.pdf)
   
