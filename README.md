@@ -83,11 +83,11 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 
 ## Séquence 6 : Méthode « diviser pour régner »
 
-+ :books:[Recherche dichotomique (Capytale)](https://capytale2.ac-paris.fr/web/c/2505-4690800)
-  + [Correction - Approche_naive](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/approche_naive.py)
-  + [Correction - Recherche dichotomique](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/recherche_dichotomique.py)
-  + [Correction - Recherche dichotomique recursive](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/recherche_dichotomique_recursive.py)
-+ :books:[Diviser pour régner](https://capytale2.ac-paris.fr/web/c/6a7a-4691376)
++ :books::pencil2:[Recherche dichotomique (Capytale)](https://capytale2.ac-paris.fr/web/c/2505-4690800)
+  + Correction [approche_naive.py](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/approche_naive.py)
+  + Correction [recherche_dichotomique.py](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/recherche_dichotomique.py)
+  + Correction [recherche_dichotomique_recursive.py](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/recherche_dichotomique_recursive.py)
++ :books::pencil2:[Diviser pour régner (Capytale)](https://capytale2.ac-paris.fr/web/c/6a7a-4691376)
 + ✏️ [Exemple de la recherche du maximum](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/Recherche%20du%20maximum.pdf)
 + ✏️ [Exemple de la somme des éléments d'un tableau](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/Somme%20des%20%C3%A9l%C3%A9ments%20d'un%20tableau.pdf)
 + ✏️ [Exemple de la recherche d'un élément majoritaire](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_6_Diviser_pour_r%C3%A9gner/Element%20majoritaire.pdf)
