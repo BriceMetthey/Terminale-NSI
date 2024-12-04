@@ -56,7 +56,7 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 
 ## Séquence 5 : Listes, piles, files
 
-+ :books:[Les listes chaînées (Capytale)](https://capytale2.ac-paris.fr/web/c/0f7a-4430887)
++ :books::pencil2:[Les listes chaînées (Capytale)](https://capytale2.ac-paris.fr/web/c/0f7a-4430887)
   - Correction [liste_chainee_tuple.py](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/liste_chainee_tuple.py)
   - Correction [liste_chainee_tableau.py](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/liste_chainee_tableau.py)
   - Correction [Cellule.py](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/Cellule.py)  [liste_chainee_poo.py](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/liste_chainee_poo.py)  [liste_poo_rec.py](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/liste_poo_rec.py)
@@ -72,12 +72,12 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
   - Correction [verifier_parenthesage.py](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/verifier_parenthesage.py)
   - Correction [exercice_pile.py](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/exercice_pile.py)
 + :books:✏️[Les files (Capytale)](https://capytale2.ac-paris.fr/web/c/2dae-4548437)
-  - Correction [File avec liste chaînée](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/file_POO_liste_chain%C3%A9e.py)
-  - Correction [File avec 2 piles](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/file_avec_2_piles.py)
-  - Correction [File avec un tableau](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/file_tableau_simple.py)
-  - Correction [Cantine](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/cantine.py)
-+ :books:✏️ [Autre implémentation d'une liste](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/Autres%20impl%C3%A9mentations-partiel.pdf) [[Correction}](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/Autres%20impl%C3%A9mentations-complet.pdf)
-
+  - Correction [file_POO_liste_chainée.py](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/file_POO_liste_chain%C3%A9e.py)
+  - Correction [file_avec_2_piles.py](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/file_avec_2_piles.py)
+  - Correction [file_tableau_simple.py](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/file_tableau_simple.py)
+  - Correction [cantine.py](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/cantine.py)
++ :books:✏️ [Autre implémentation d'une liste](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/Autres%20impl%C3%A9mentations-partiel.pdf)
+  - Correction [Document avec correction intégrée](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/Autres%20impl%C3%A9mentations-complet.pdf)
 + :books: [Bonus](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Sequence_5_Structures_lineaires/Exp%C3%A9rience.pdf)
 
 
