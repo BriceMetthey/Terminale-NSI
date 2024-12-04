@@ -111,10 +111,10 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 
 
 ## Séquence 7 : Bases de données
-+ [Outils des bases de données : Prérequis, Installations, Exécutions](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Projets/Projet%201%20-%20Centre%20%C3%A9questre/page_outils.md)
++ :wrench: [Outils des bases de données : Prérequis, Installations, Exécutions](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Projets/Projet%201%20-%20Centre%20%C3%A9questre/page_outils.md)
 + :books: Modèle relationnel
 
 ## Projet : Bases de données 
-+ [Outils des bases de données : Prérequis, Installations, Exécutions](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Projets/Projet%201%20-%20Centre%20%C3%A9questre/page_outils.md)
++ :wrench: [Outils des bases de données : Prérequis, Installations, Exécutions](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Projets/Projet%201%20-%20Centre%20%C3%A9questre/page_outils.md)
 + :horse: [Cahier des charges](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Projets/Projet%201%20-%20Centre%20%C3%A9questre/Cahier%20des%20charges.pdf)
   
