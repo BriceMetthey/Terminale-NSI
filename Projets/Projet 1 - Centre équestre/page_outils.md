@@ -146,7 +146,7 @@ Cas d'usage :
 
 7. Sinon vous pouvez créer un fichier SQL et le faire executer dans la base de données :
 
-  - Exemple --> Executer les commandes SQL du fichier schema.sql se trouvant dans `D:\Exercices-bdd` : `.read D:\Exercices-bdd\schema.sql`
+  - Exemple --> Exécuter les commandes SQL du fichier schema.sql se trouvant dans `D:\Exercices-bdd` : `.read D:\Exercices-bdd\schema.sql`
 
 
 
