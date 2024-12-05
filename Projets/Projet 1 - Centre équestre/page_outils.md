@@ -111,7 +111,7 @@ Cas d'usage :
 
 3. Exécuter la commande `cd D:\Projets\ProjetCentreEquestre\bdd`
 
-4. Exécuter la commande `C:\Applis\Sqlite\sqlite3.exe`
+4. Exécuter la commande `D:\Applis\Sqlite\sqlite3.exe`
 
 5. Utilisez la commande .open pour créer et ouvrir une nouvelle base de données :
 
@@ -138,7 +138,7 @@ Cas d'usage :
 
 3. Exécuter la commande `cd D:\Projets\ProjetCentreEquestre\bdd`
 
-4. Exécuter la commande `C:\Applis\Sqlite\sqlite3.exe`
+4. Exécuter la commande `D:\Applis\Sqlite\sqlite3.exe`
 
 5. Utilisez la commande `.open centreEquestre.db` pour ouvrir la base de données
 
