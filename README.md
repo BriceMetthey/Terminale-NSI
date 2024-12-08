@@ -8,7 +8,7 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 + [Synthèse du programme de terminale NSI](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Divers/Synth%C3%A8se_programme_Terminale_NSI.pdf)
 + [Modalités au baccalauréat de la spécialité NSI](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Divers/Modalit%C3%A9s_Epreuves_Terminales.pdf)
 
-## Evaluations  :warning: Nouveau !
+## Evaluations  
 
 + :hourglass_flowing_sand:[Evaluation n°1](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Evaluations/DS_1.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Evaluations/DS_1_corrections.pdf)
 + :hourglass_flowing_sand:[Evaluation n°2](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Evaluations/DS_2.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Evaluations/DS_2_corrections.pdf)
@@ -112,7 +112,7 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 
 ## Séquence 7 : Bases de données
 + :wrench: [Outils des bases de données : Prérequis, Installations, Exécutions](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Projets/Projet%201%20-%20Centre%20%C3%A9questre/page_outils.md)
-+ :books::pencil2: [Le Modèle Conceptuel de Données (MCD)](https://capytale2.ac-paris.fr/web/c/8af0-4885733) Au démarrage faire : Cellule -> Exécuter tout
++ :books::pencil2: [Le Modèle Conceptuel de Données (MCD)](https://capytale2.ac-paris.fr/web/c/8af0-4885733) 
 + :books::pencil2: [Le schéma relationnel](https://capytale2.ac-paris.fr/web/c/9725-4914879)
 
 ## Projet : Bases de données 
