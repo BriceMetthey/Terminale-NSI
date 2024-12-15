@@ -115,6 +115,7 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 + :books::pencil2: [Le Modèle Conceptuel de Données (MCD)](https://capytale2.ac-paris.fr/web/c/8af0-4885733) 
 + :books::pencil2: [Le schéma relationnel](https://capytale2.ac-paris.fr/web/c/9725-4914879)
 + :books::pencil2: [Base de données relationnelles](https://capytale2.ac-paris.fr/web/c/bebf-4971040)
++ :books::pencil2: [Requêtes SQL et mises à jour](https://capytale2.ac-paris.fr/web/c/1b9f-5017190)
 
 ## Projet : Bases de données 
 + :wrench: [Outils des bases de données : Prérequis, Installations, Exécutions](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Projets/Projet%201%20-%20Centre%20%C3%A9questre/page_outils.md)
