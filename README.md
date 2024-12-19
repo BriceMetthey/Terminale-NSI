@@ -124,6 +124,7 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 + :rocket: [Le cycle en V](https://capytale2.ac-paris.fr/web/c/a47b-4937911)
 + Objectifs techniques : Découpage en modules, type hinting, docstrings, Tests unitaires
 + Schéma entité-association : https://www.looping-mcd.fr/
++ [DB-API 2.0 interface for SQLite databases](https://docs.python.org/3/library/sqlite3.html)
 + Objectifs intermédiaires du 6 janvier 2025 :
    + Arborescence de "navigation" entre les pages     
    + Liste de chaque "écrans" prévus présentant la fonctionnalité (en français)
