@@ -117,6 +117,7 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 + :books::pencil2: [Le schéma relationnel](https://capytale2.ac-paris.fr/web/c/9725-4914879)
 + :books::pencil2: [Base de données relationnelles](https://capytale2.ac-paris.fr/web/c/bebf-4971040)
 + :books::pencil2: [Requêtes SQL et mises à jour](https://capytale2.ac-paris.fr/web/c/e15a-5094245)
++ :books: [Fiche de synthèse]() :fire: Nouveau !
 
 
 ## Projet : Bases de données 
