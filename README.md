@@ -116,10 +116,10 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 + :books::pencil2: [Le Modèle Conceptuel de Données (MCD)](https://capytale2.ac-paris.fr/web/c/8af0-4885733) 
 + :books::pencil2: [Le schéma relationnel](https://capytale2.ac-paris.fr/web/c/9725-4914879)
 + :books::pencil2: [Base de données relationnelles](https://capytale2.ac-paris.fr/web/c/bebf-4971040)
-   - Correction [bibliothèque.sql](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_7_Base_de_donn%C3%A9es/biblioth%C3%A8que.sql)
-   - Correction [cinéma.sql](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_7_Base_de_donn%C3%A9es/cinema.sql)
-   - Correction [médiathèque.sql](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_7_Base_de_donn%C3%A9es/mediatheque.sql)
-   - Correction [école_de_musique.sql](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_7_Base_de_donn%C3%A9es/%C3%A9cole_de_musique.sql)
+   - Correction [bibliothèque.sql](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_7_Base_de_donn%C3%A9es/biblioth%C3%A8que.sql) :fire: Nouveau !
+   - Correction [cinéma.sql](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_7_Base_de_donn%C3%A9es/cinema.sql) :fire: Nouveau !
+   - Correction [médiathèque.sql](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_7_Base_de_donn%C3%A9es/mediatheque.sql) :fire: Nouveau !
+   - Correction [école_de_musique.sql](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_7_Base_de_donn%C3%A9es/%C3%A9cole_de_musique.sql) :fire: Nouveau !
 + :books::pencil2: [Requêtes SQL et mises à jour](https://capytale2.ac-paris.fr/web/c/e15a-5094245)
 + :books: [Fiche de synthèse](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_7_Base_de_donn%C3%A9es/Synth%C3%A8se.pdf) :fire: Nouveau !
 
