@@ -4,7 +4,7 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 
 ## Divers
 
-+ :repeat:[Processus de contrôle continu](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Divers/Controle_Continu.pdf)
++ [Processus de contrôle continu](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Divers/Controle_Continu.pdf) :repeat:
 + [Synthèse du programme de terminale NSI](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Divers/Synth%C3%A8se_programme_Terminale_NSI.pdf)
 + [Modalités au baccalauréat de la spécialité NSI](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Divers/Modalit%C3%A9s_Epreuves_Terminales.pdf)
 
