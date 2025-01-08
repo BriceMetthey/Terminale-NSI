@@ -136,5 +136,5 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
    + Liste de chaque "écrans" prévus présentant la fonctionnalité (en français)
    + [Un exemple concret des éléments demandés ci-dessus](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Projets/Projet%201%20-%20Centre%20%C3%A9questre/Exemple%20documentation%20projet.pdf)  :fire: Nouveau !
    + Une première version du Schéma entité-association
-   + Documentation -> Utiliser https://mon.lyceeconnecte.fr > Mes applis > Outils bureautiques
+
 
