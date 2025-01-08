@@ -131,7 +131,7 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 + Objectifs techniques : Découpage en modules, type hinting, docstrings, Tests unitaires
 + Schéma entité-association : https://www.looping-mcd.fr/
 + [DB-API 2.0 interface for SQLite databases](https://docs.python.org/3/library/sqlite3.html)
-+ Objectifs intermédiaires du 9 janvier 2025 :
++ **Objectifs intermédiaires** du 9 janvier 2025 :
    + Arborescence de "navigation" entre les pages     
    + Liste de chaque "écrans" prévus présentant la fonctionnalité (en français)
    + [Un exemple concret des éléments demandés ci-dessus](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Projets/Projet%201%20-%20Centre%20%C3%A9questre/Exemple%20documentation%20projet.pdf)  :fire: Nouveau !
