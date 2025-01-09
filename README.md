@@ -128,10 +128,9 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 
 ## Projet : Bases de données 
 + :wrench: [Outils des bases de données : Prérequis, Installations, Exécutions](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Projets/Projet%201%20-%20Centre%20%C3%A9questre/page_outils.md)
-+ :horse: [Cahier des charges](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Projets/Projet%201%20-%20Centre%20%C3%A9questre/Cahier%20des%20charges.pdf)
-+ :rocket: [Le cycle en V](https://capytale2.ac-paris.fr/web/c/a47b-4937911)
-+ [Besoins et objectifs](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Projets/Projet%201%20-%20Centre%20%C3%A9questre/Projet%201%20-%20Bases%20de%20donn%C3%A9es.pdf)
-+ [Un exemple concret des éléments demandés ci-dessus](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Projets/Projet%201%20-%20Centre%20%C3%A9questre/Exemple%20documentation%20projet.pdf)  :fire: Nouveau !
++ :books:  [Le cycle en V](https://capytale2.ac-paris.fr/web/c/a47b-4937911)
++ :rocket: [Besoins et objectifs](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Projets/Projet%201%20-%20Centre%20%C3%A9questre/Projet%201%20-%20Bases%20de%20donn%C3%A9es.pdf)
+
 
 
 
