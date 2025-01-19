@@ -132,5 +132,5 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 + :rocket: [Besoins et objectifs](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Projets/Projet%201%20-%20Centre%20%C3%A9questre/Projet%201%20-%20Bases%20de%20donn%C3%A9es.pdf)
 
 
-
-
+## Séquence 8 : Les arbres
++ :books::pencil2: [Arbres - Structures et algorithmes](https://capytale2.ac-paris.fr/web/c/8e99-5337871)
