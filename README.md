@@ -12,7 +12,7 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 
 + :children_crossing:[Evaluation n°1](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Evaluations/DS_1.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Evaluations/DS_1_corrections.pdf)
 + :children_crossing:[Evaluation n°2](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Evaluations/DS_2.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Evaluations/DS_2_corrections.pdf)
-+ :children_crossing:[Evaluation n°3](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Evaluations/DS_3.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Evaluations/DS_3_corrections.pdf) :fire: Nouveau !
++ :children_crossing:[Evaluation n°3](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Evaluations/DS_3.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Evaluations/DS_3_corrections.pdf) 
 
 
 ## Séquence 1 : Rappels de première
@@ -50,7 +50,7 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 + :books: [Le cours](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_4_POO/Cours.pdf) [[Complément]](https://capytale2.ac-paris.fr/web/c/885b-4244176)
 + 📚 [La notion d'encapsulation (Capytale)](https://capytale2.ac-paris.fr/web/c/96ed-4264467)
 + :books: [La notion d'héritage (Capytale)](https://capytale2.ac-paris.fr/web/c/989d-4264876)
-+ :world_map: [La carte mentale](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_4_POO/Carte%20mentale%20-%20POO.svg) :fire: Nouveau !
++ :world_map: [La carte mentale](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_4_POO/Carte%20mentale%20-%20POO.svg) 
 + :pencil2: [Fiche d'exercices n°1 (Capytale)](https://capytale2.ac-paris.fr/web/c/a5db-4143538) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_4_POO/Exercices_corrig%C3%A9s.pdf)
 + :pencil2: [Fiche d'exercices n°2 (Capytale)](https://capytale2.ac-paris.fr/web/c/cb5a-4245287) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_4_POO/Fiche_Exercices_2_Correction.pdf)
 + :pencil2: [Fiche d'exercices n°3 (Capytale)](https://capytale2.ac-paris.fr/web/c/070f-4264682) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_4_POO/Fiche_Exercices_3_Correction.pdf)
@@ -121,9 +121,9 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
    - Correction [médiathèque.sql](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_7_Base_de_donn%C3%A9es/mediatheque.sql) 
    - Correction [école_de_musique.sql](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_7_Base_de_donn%C3%A9es/%C3%A9cole_de_musique.sql) 
 + :books::pencil2: [Requêtes SQL et mises à jour](https://capytale2.ac-paris.fr/web/c/e15a-5094245)
-+ :books: [Fiche de synthèse](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_7_Base_de_donn%C3%A9es/Synth%C3%A8se.pdf) :fire: Nouveau !
-+ :world_map: [La carte mentale SGBD Relationnel](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_7_Base_de_donn%C3%A9es/SGBD%20relationnel.svg) :fire: Nouveau !
-+ :world_map: [La carte mentale Interrogation en SQL](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_7_Base_de_donn%C3%A9es/Interrogation%20SQL.svg) :fire: Nouveau !
++ :books: [Fiche de synthèse](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_7_Base_de_donn%C3%A9es/Synth%C3%A8se.pdf) 
++ :world_map: [La carte mentale SGBD Relationnel](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_7_Base_de_donn%C3%A9es/SGBD%20relationnel.svg) 
++ :world_map: [La carte mentale Interrogation en SQL](https://github.com/BriceMetthey/Terminale-NSI/blob/main/S%C3%A9quence_7_Base_de_donn%C3%A9es/Interrogation%20SQL.svg) 
 
 
 ## Projet : Bases de données 
