@@ -134,3 +134,4 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 
 ## Séquence 8 : Les arbres
 + :books::pencil2: [Arbres - Structures et algorithmes](https://capytale2.ac-paris.fr/web/c/0440-5360023)
++ :books::pencil2: [Arbres - Parcours d'arbres binaires]()
