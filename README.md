@@ -137,6 +137,6 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 + :books::pencil2: [Arbres - Parcours d'arbres binaires](https://capytale2.ac-paris.fr/web/c/537f-5394007)  [[Correction]](https://capytale2.ac-paris.fr/web/c/dd12-5421479)
 + :pencil2: [Exercice d'entraînement #1](https://capytale2.ac-paris.fr/web/c/1a50-5430728)  [[Correction]](https://capytale2.ac-paris.fr/web/c/4771-5430645)
 + :pencil2: [Exercice d'entraînement #2](https://capytale2.ac-paris.fr/web/c/64b4-5430873)  [[Correction]](https://capytale2.ac-paris.fr/web/c/0bbb-5430753) :fire:
-+ :books::pencil2: [Les arbres binaires de recherche]() [[Correction]]() :fire:
-+ :pencil2: [Exercice d'entraînement ABR #1]()  [[Correction]]()
-  
++ :books::pencil2: [Les arbres binaires de recherche](https://capytale2.ac-paris.fr/web/c/4705-5604771) [[Correction]]() :fire:
++ :pencil2: [Exercice d'entraînement ABR #1]()  [[Correction]]() :fire:
++ :pencil2: [Exercice d'entraînement ABR #2]()  [[Correction]]() :fire: 
