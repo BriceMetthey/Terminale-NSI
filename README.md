@@ -141,3 +141,6 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 + :pencil2: [Exercice d'entraînement ABR #1](https://capytale2.ac-paris.fr/web/c/1a73-5604940)  [[Correction]]() :fire:
 + :pencil2: [Exercice d'entraînement ABR #2](https://capytale2.ac-paris.fr/web/c/c633-5605037)  [[Correction]]() :fire:
 + [Evaluation formative "Cliquez sur Rendre ce travail" à la fin](https://capytale2.ac-paris.fr/web/c/0260-5611944)  [[Correction]]() :fire:
+
+## Séquence 9 : Gestion des processus et des ressources par un système d’exploitation
++ :books::pencil2: [Gestion des processus](https://capytale2.ac-paris.fr/web/c/fe2c-5634911)
