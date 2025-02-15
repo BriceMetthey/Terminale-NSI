@@ -144,5 +144,5 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 
 ## Séquence 9 : Gestion des processus et des ressources par un système d’exploitation
 + :books::pencil2: [Gestion des processus](https://capytale2.ac-paris.fr/web/c/fe2c-5634911)
-+ :books::pencil2: [Gestion des processus II](https://capytale2.ac-paris.fr/web/c/a4e8-5663931)
++ :books::pencil2: [Gestion des processus II](https://capytale2.ac-paris.fr/web/c/a4e8-5663931)  [[Correction]](https://capytale2.ac-paris.fr/web/c/6e22-5662890)
 + :books::pencil2: [Gestion des processus III](https://capytale2.ac-paris.fr/web/c/a0c3-5674542)  [[Correction]](https://capytale2.ac-paris.fr/web/c/1f58-5674252)
