@@ -138,7 +138,7 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 + :pencil2: [Exercice d'entraînement #1](https://capytale2.ac-paris.fr/web/c/1a50-5430728)  [[Correction]](https://capytale2.ac-paris.fr/web/c/4771-5430645)
 + :pencil2: [Exercice d'entraînement #2](https://capytale2.ac-paris.fr/web/c/64b4-5430873)  [[Correction]](https://capytale2.ac-paris.fr/web/c/0bbb-5430753) 
 + :books::pencil2: [Les arbres binaires de recherche](https://capytale2.ac-paris.fr/web/c/4705-5604771) [[Correction]](https://capytale2.ac-paris.fr/web/c/51a9-5591457) Correction OK!
-+ :pencil2: [Exercice d'entraînement ABR #1](https://capytale2.ac-paris.fr/web/c/1a73-5604940)  [[Correction]]() :fire:
++ :pencil2: [Exercice d'entraînement ABR #1](https://capytale2.ac-paris.fr/web/c/1a73-5604940)  [[Correction]](https://capytale2.ac-paris.fr/web/c/7e32-5604089) Correction OK!
 + :pencil2: [Exercice d'entraînement ABR #2](https://capytale2.ac-paris.fr/web/c/c633-5605037)  [[Correction]]() :fire:
 + [Evaluation formative "Cliquez sur Rendre ce travail" à la fin](https://capytale2.ac-paris.fr/web/c/0260-5611944)  [[Correction]](https://capytale2.ac-paris.fr/web/c/feb3-5611890) 
 
