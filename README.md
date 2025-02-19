@@ -13,7 +13,7 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 + :children_crossing:[Evaluation n°1](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Evaluations/DS_1.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Evaluations/DS_1_corrections.pdf)
 + :children_crossing:[Evaluation n°2](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Evaluations/DS_2.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Evaluations/DS_2_corrections.pdf)
 + :children_crossing:[Evaluation n°3](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Evaluations/DS_3.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Evaluations/DS_3_corrections.pdf) 
-
++ :children_crossing:[Evaluation n°4](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Evaluations/DS_4.pdf) [[Correction]](https://github.com/BriceMetthey/Terminale-NSI/blob/main/Evaluations/DS_4_corrections.pdf) 
 
 ## Séquence 1 : Rappels de première
 
