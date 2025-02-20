@@ -151,4 +151,4 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
   
 
 ## Séquence 10 : Les graphes
-+ :books::pencil2: [Graphes - Structures relationnelles](https://capytale2.ac-paris.fr/web/c/a3f4-5704709) [[Correction]]() 
++ :books::pencil2: [Graphes - Structures relationnelles](https://capytale2.ac-paris.fr/web/c/6cf6-5706540) [[Correction]]() 
