@@ -148,7 +148,7 @@ Lien vers le site : [https://bricemetthey.github.io/Terminale-NSI](https://brice
 + :books::pencil2: [Gestion des processus III](https://capytale2.ac-paris.fr/web/c/a0c3-5674542)  [[Correction]](https://capytale2.ac-paris.fr/web/c/1f58-5674252)  Correction OK :heavy_check_mark:
 + :books::pencil2: [Gestion des processus IV](https://capytale2.ac-paris.fr/web/c/c621-5685205)   [[Correction]](https://capytale2.ac-paris.fr/web/c/c621-5685205)  Correction OK :heavy_check_mark:
 + ✏️ [Exercice d'entraînement](https://capytale2.ac-paris.fr/web/c/7c18-5686456) [[Correction]](https://capytale2.ac-paris.fr/web/c/c0c9-5686562)  Correction OK :heavy_check_mark:
-+ 
+  
 
 ## Séquence 10 : Les graphes
 + :books::pencil2: [Graphes - Structures relationnelles](https://capytale2.ac-paris.fr/web/c/a3f4-5704709) [[Correction]]() 
